@@ -33,4 +33,4 @@ install:
 before_script:
 
 
-script: bin/phpunit
+script: bin/phpunit --testdox tests
